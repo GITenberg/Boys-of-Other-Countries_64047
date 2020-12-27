@@ -1,0 +1,48 @@
+_repo: Boys-of-Other-Countries_64047
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Coburn, Frederick Simpson
+    alias: Coburn, F. S. (Frederick Simpson)
+    birthdate: 1871
+    deathdate: 1960
+    gutenberg_agent_id: '9412'
+    url: http://www.gutenberg.org/2009/agents/9412
+  - agent_name: Davis, John Parker
+    alias: Davies, John Parker
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '52717'
+    url: http://www.gutenberg.org/2009/agents/52717
+creator:
+  author:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, J. B.
+    - Taylor, James Bayard
+    - Taylor, J.B.
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: https://en.wikipedia.org/wiki/Bayard_Taylor
+description: ''
+gutenberg_issued: '2020-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64047'
+  lccn: '12023512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+tableOfContents: The little post-boy -- The Pasha's son -- Jon of Iceland -- The two
+  herd-boys -- The young serf -- Studies of animal nature -- A robber region of southern
+  California.
+title: Boys of Other Countries
+url: http://www.gutenberg.org/ebooks/64047
